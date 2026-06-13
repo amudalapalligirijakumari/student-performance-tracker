@@ -1,6 +1,6 @@
 INTERNID:CITS946
 
-FULL NAME: Amudalapalli GirijaKumari
+FULL NAME: Amudalapalli Girija Kumari
 
 NO OF WEEKS: 6
 
